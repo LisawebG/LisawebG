@@ -1,23 +1,9 @@
 # Hi I'm Elizaveta👋
 ## Front - end developer from Russia.
-## Mentor for beginnera in webdev.
-### My blod about IT and Webdev https://www.instagram.com/lisa_webgirl/
+## Mentor for beginners in webdev.
+### My blog about IT and Webdev https://www.instagram.com/lisa_webgirl/
 ### My YouTube channel https://www.youtube.com/channel/UCENIwXlaLBWb_HgGThtxNsQ
 ### I work in technology stack: HTML/CSS, JS, REACT/REDUX
-
-
-
-<!--
-**LisawebG/LisawebG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact with me:
+- 📫 eljobemail@gmail.com
+- 💬 Telegram @elis_kry
