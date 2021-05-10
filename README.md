@@ -3,8 +3,7 @@
 ## Mentor for beginnera in webdev.
 ### My blod about IT and Webdev https://www.instagram.com/lisa_webgirl/
 ### My YouTube channel https://www.youtube.com/channel/UCENIwXlaLBWb_HgGThtxNsQ
-### Hard skills
-![JS](https://img.shields.io/badge/-JS-?style=flat&logo=appveyor)
+### I work in technology stack: HTML/CSS, JS, REACT/REDUX
 
 
 
