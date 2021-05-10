@@ -4,7 +4,7 @@
 ### My blod about IT and Webdev https://www.instagram.com/lisa_webgirl/
 ### My YouTube channel https://www.youtube.com/channel/UCENIwXlaLBWb_HgGThtxNsQ
 ### Hard skills
-https://img.shields.io/badge/<>-<JS>-<yellow>
+![JS](https://img.shields.io/badge/-JS-yellow)
 
 
 
