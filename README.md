@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm Elizaveta👋
+## Front - end developer from Russia.
+## Mentor for beginnera in webdev.
+### My blod about IT and Webdev https://www.instagram.com/lisa_webgirl/
+### My YouTube channel https://www.youtube.com/channel/UCENIwXlaLBWb_HgGThtxNsQ
+### Hard skills
+![JS](https://www.flaticon.com/ru/free-icon/js_541509?term=js&page=1&position=22&page=1&position=22&related_id=541509&origin=search)
+
+
 
 <!--
 **LisawebG/LisawebG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
